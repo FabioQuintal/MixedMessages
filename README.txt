@@ -1,1 +1,1 @@
-aaaaaaaaaas
+This project is based on a task of CodeAcademy Back-End course
