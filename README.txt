@@ -1,1 +1,1 @@
-This project is based on a task of CodeAcademy Back-End course
+This project is based on a task of CodeAcademy Back-End course. It is a simple script that generates a random message every time it run.
